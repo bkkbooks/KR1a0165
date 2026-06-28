@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR1a0165/v1
+canonical_location: https://kanripo.org/bkk/KR1a0165/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 易緯辨終備
+  date: '2015-08-24 22:01:12.994901'
+  source:
+    repository: kanripo
+    path: KR1a0165
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1a0165_000.yaml, hash: 'sha256:690c773d3d9d55e9a431d488362ac56b9a04ee6478f7d0b142f7adf81ac682c0'}
+  - {seq: 1, filename: KR1a0165_001.yaml, hash: 'sha256:390735b93a3b8462385aed1c49c39a064f5ecfb6fa53f582056e2935674ffb32'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1a0165_001.markers.yaml, hash: 'sha256:0165dbc09af07b3117034dd5b506ab86f429cc41fea4a07bf79ff095abd2b692'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1a0165_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1133
+  label: 易緯辨終備
+  type: section
+  level: 1
+hash: sha256:703f85c2ea3dbbe1803a73b8c953e8b218181297cb79c1b7eb4588fdd8f58ea9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

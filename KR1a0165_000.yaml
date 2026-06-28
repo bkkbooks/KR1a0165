@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0165/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易緯辨終備
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:01:12.994901'
+  source:
+    repository: kanripo
+    path: KR1a0165/KR1a0165_000.txt
+hash: sha256:690c773d3d9d55e9a431d488362ac56b9a04ee6478f7d0b142f7adf81ac682c0

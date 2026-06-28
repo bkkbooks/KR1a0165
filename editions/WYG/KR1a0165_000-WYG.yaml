@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0165/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易緯辨終備
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:01:12.994901'
+  source:
+    repository: kanripo
+    path: KR1a0165/KR1a0165_000.txt
+hash: sha256:e2752a49ec7947b75f2ef284b66264fdba8bb5e4befb992dc2a374a5a6f118e2
