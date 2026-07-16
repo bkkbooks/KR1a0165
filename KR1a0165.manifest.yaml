@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR1a0165_000.yaml, hash: 'sha256:690c773d3d9d55e9a431d488362ac56b9a04ee6478f7d0b142f7adf81ac682c0'}
   - {seq: 1, filename: KR1a0165_001.yaml, hash: 'sha256:d7c0eafe86854830aa492b58b35ae83ae7c37f21c1cdc2d421b5824c517a4878'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1a0165_001.markers.yaml, hash: 'sha256:92a6fe255b3dfc424a3c4e55ab93bb8c198eee27eed0a17d391d0d94c87b8e78'}
+  - {seq: 1, role: markers, filename: assets/KR1a0165_001.markers.yaml, hash: 'sha256:c8284b1e8de5fd8e1bf659b5f8a565d91815feb3bc14821cc635a723b658a0c6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,7 @@ table_of_contents:
   label: 易緯辨終備
   type: section
   level: 1
-hash: sha256:d1e7a4965f5b28e78efad316c92d1e550094ad90e54881fbe16dfea5d29bd15b
+hash: sha256:7956c86f0d507cbdbef117e140dc09901e33838acfed7aa573f3f60c6c808f11
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
